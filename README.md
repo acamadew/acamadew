@@ -6,7 +6,7 @@
     💼 Systems Engineer @ Data Center • Back-end & Infrastructure Dev
     💻 Low-level programming • Server & Network Automation
     📖 Cloud architectures • High Availability • Virtualization 
-    🎮 Music • Games • Anime • Code • Art
+    🎮 Music • Games • Anime • Code • AI Testing
     🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
 </pre>
 <br><br>
